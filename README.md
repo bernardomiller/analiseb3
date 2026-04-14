@@ -1,16 +1,32 @@
-# Análise Exploratória de Ações - B3 (2022-2024)
+# 📊 Análise Exploratória de Ações - B3 (2022-2024)
 
-Este projeto realiza uma análise quantitativa de 10 ativos da bolsa brasileira, comparando sua performance, volatilidade e correlação com o índice Ibovespa.
+Este projeto realiza uma análise quantitativa de ativos da bolsa brasileira, comparando performance e volatilidade com o índice Ibovespa.
 
-## Objetivo
-Analisar o comportamento de diferentes setores da B3 durante o período de 2022 a 2024 utilizando dados reais extraídos via API do Yahoo Finance.
+---
 
-## Estrutura do Projeto
-- `analise_b3.py`: Script principal em Python.
+## 🎯 Objetivo
+Desenvolver uma ferramenta de análise exploratória de dados (EDA) para identificar padrões de retorno em diferentes setores da B3, utilizando dados reais via `yfinance`.
+
+## 📁 Estrutura do Projeto
+- `analise_b3.py`: Script principal de coleta e processamento.
 - `requirements.txt`: Lista de dependências do projeto.
-- `graficos/`: Pasta contendo os outputs visuais da análise.
+- `graficos/`: Pasta contendo os resultados visuais gerados.
 
-## Como Executar
-1. Instale as bibliotecas necessárias:
-   ```bash
-   pip install -r requirements.txt
+## 🚀 Como Executar
+Basta rodar o script principal no seu ambiente Python:
+
+```bash
+python analise_b3.py  
+
+## 📈 Resultados da Análise
+
+Aqui está a performance acumulada dos ativos analisados:
+
+![Retorno Acumulado](graficos/01_retorno_acumulado.png)
+
+---
+
+## 📝 Autor
+
+**Bernardo Esteves Miller Machado** Estudante de Ciência de Dados e IA — IBMEC RJ  
+Foco em Mercado Financeiro e Análise Quantitativa.
