@@ -13,11 +13,18 @@ Desenvolver uma ferramenta de análise exploratória de dados (EDA) para identif
 - `graficos/`: Pasta contendo os resultados visuais gerados.
 
 ## 🚀 Como Executar
-Basta rodar o script principal no seu ambiente Python:
+Instale as dependências e rode o script:
 
 ```bash
-python analise_b3.py  
+pip install -r requirements.txt
+python analise_b3.py
+```
 
+---
+
+### Parte 2: Resultados da Análise
+
+```markdown
 ## 📈 Resultados da Análise
 
 Aqui está a performance acumulada dos ativos analisados:
