@@ -30,6 +30,7 @@ python analise_b3.py
 Aqui está a performance acumulada dos ativos analisados:
 
 ![Retorno Acumulado](graficos/01_retorno_acumulado.png)
+```
 
 ---
 
