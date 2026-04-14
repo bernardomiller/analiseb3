@@ -20,17 +20,11 @@ pip install -r requirements.txt
 python analise_b3.py
 ```
 
----
-
-### Parte 2: Resultados da Análise
-
-```markdown
 ## 📈 Resultados da Análise
 
 Aqui está a performance acumulada dos ativos analisados:
 
 ![Retorno Acumulado](graficos/01_retorno_acumulado.png)
-```
 
 ---
 
