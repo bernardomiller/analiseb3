@@ -31,4 +31,3 @@ Aqui está a performance acumulada dos ativos analisados:
 ## 📝 Autor
 
 **Bernardo Esteves Miller Machado** Estudante de Ciência de Dados e IA — IBMEC RJ  
-Foco em Mercado Financeiro e Análise Quantitativa.
